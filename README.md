@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Linkedin Badge](https://img.shields.io/badge/-Timothy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/olugbenga-timothy/)](https://www.linkedin.com/in/iambolajiayo) [![Twitter Badge](https://img.shields.io/badge/-@tobii_oi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tobii_io)](https://twitter.com/tobii_io)
+[![Linkedin Badge](https://img.shields.io/badge/-Timothy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/olugbenga-timothy/)](https://www.linkedin.com/in/olugbenga-timothy) [![Twitter Badge](https://img.shields.io/badge/-@tobii_oi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tobii_io)](https://twitter.com/tobii_io)
 
 I'm a Software Engineer, Content Creator, and Community Contributor who currently looking for work/internship. I'm passionate about sharing knowledge, documentation, web engineering, SEO, headless commerce, and others. , and , build useful [open-source projects](https://github.com/EXEAlebs), speak at some meetups/conferences, build technical communities...
 
