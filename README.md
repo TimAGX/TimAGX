@@ -2,7 +2,10 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Timothy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/olugbenga-timothy/)](https://www.linkedin.com/in/olugbenga-timothy) [![Twitter Badge](https://img.shields.io/badge/-@tobii_oi-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/tobii_io)](https://twitter.com/tobii_io)
 
-I'm a Software Engineer, Content Creator, and Community Contributor who currently looking for work/internship. I'm passionate about sharing knowledge, documentation, web engineering, SEO, headless commerce, and others. , and , build useful [open-source projects](https://github.com/EXEAlebs), speak at some meetups/conferences, build technical communities...
+I'm Cloud Engineer and DevOps Specialist with 5 years of experience in deploying and automating cloud infrastructure on Azure and AWS. Expertise in Infrastructure as Code (IaC), CI/CD pipeline automation, and container
+orchestration using Kubernetes and Docker. Proven ability to optimize microservices, enhance cloud security,
+and improve system performance. Adept at collaborating in agile environments to drive continuous improvement
+and efficient cloud solutions.
 
 **Here's a quick summary about me**:
 
@@ -11,7 +14,7 @@ I'm a Software Engineer, Content Creator, and Community Contributor who currentl
 - 🌱 I’m currently working JavaScript, Reactjs, Nextjs, NodeJS(MERN) and Java.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Java Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://docs.google.com/document/d/1iHjfplXe2B0Zt46l9eprg3TLbezdfzI2muk3HSDLVng/edit?usp=sharing) and contact me by emailing Alebsgd@gmail.com.
+- 📫 You can [view my resume](https://bitly.nz/fKRkn) and contact me by emailing ayomidetimothy28@gmail.com@gmail.com.
 
 ---
 <!-- --- -->
