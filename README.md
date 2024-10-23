@@ -8,7 +8,7 @@ I’m a Cloud Engineer & DevOps Specialist with years of experience automating c
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: Graduate of McPherson University, BSc in Computer Science
-- 🌱 I’m currently working with cloud platforms like Azure and AWS, Kubernetes, Docker, Terraform, and CI/CD tools.
+- 🌱 I’m currently working with cloud platforms like Azure and AWS and CI/CD tools like Kubernetes, Docker, Terraform.
 - 😊 I’m looking for opportunities to collaborate on DevOps projects, automation tasks, and cloud-based infrastructure challenges.
 - 💼 Job interests: DevOps Engineer, Cloud Engineer, or Site Reliability Engineer (Mid or Senior level).
 - 📫 You can [view my resume](https://bitly.nz/fKRkn) and contact me by emailing ayomidetimothy28@gmail.com.
